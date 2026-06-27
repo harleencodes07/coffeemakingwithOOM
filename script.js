@@ -5,7 +5,7 @@ const drinks = [
     milk: 150,
     coffee: 24,
     cost: 2.5,
-    image: "assets/latte.png",
+    image: "./assets/latte.png",
   },
   {
     name: "espresso",
@@ -13,7 +13,7 @@ const drinks = [
     milk: 0,
     coffee: 18,
     cost: 1.5,
-    image: "assets/espresso.png",
+    image: "./assets/espresso.png",
   },
   {
     name: "cappuccino",
@@ -21,7 +21,7 @@ const drinks = [
     milk: 50,
     coffee: 24,
     cost: 3,
-    image: "assets/cappuccino.png",
+    image: "./assets/cappuccino.png",
   },
 ];
 
