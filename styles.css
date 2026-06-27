@@ -22,7 +22,7 @@ body {
   color: var(--text);
   background:
     linear-gradient(rgba(244, 239, 234, 0.86), rgba(244, 239, 234, 0.92)),
-    url("assets/background.png") center / cover fixed;
+    url("./assets/background.png") center / cover fixed;
 }
 
 button,
